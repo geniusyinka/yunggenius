@@ -1,4 +1,4 @@
-<p>I'm a creative Full Stack Engineer who's passionate making things. I work with and have proficiency in PHP and JavaScript. I have also worked with a handfull of Laravel projects with React as the Frontend library. I have a background in media and this gives me a rather intresting view when solving problems with code. The ability to mix Technological tools with an artistic backgroud is my super power. </p>
+<p>I'm a creative Full Stack Engineer who's passionate about making things. I work with and have proficiency in PHP and JavaScript. I've also worked with a handful of Laravel projects with React as the Frontend library. I have a background in media and this gives me a rather intresting view when solving problems with code. The ability to mix Technological tools with an artistic backgroud is my super power. </p>
 
 ## Technologies I work with
 
