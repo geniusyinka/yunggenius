@@ -1,4 +1,6 @@
-<p>I'm a creative Full Stack Engineer who's passionate about making things and pivoting to web3. I work with and have proficiency in PHP and JavaScript. I've also worked with a handful of Laravel projects with React as the Frontend library. Also built out a couple of web3 User Interfaces, and interacted with tools like: hardhat, ethersJS amongts others. I have a background in media and this gives me a rather intresting view when solving problems with code. The ability to mix Technological tools with an artistic backgroud is my super power. </p>
+vibes
+
+<!-- <p>I'm a creative Full Stack Engineer who's passionate about making things and pivoting to web3. I work with and have proficiency in PHP and JavaScript. I've also worked with a handful of Laravel projects with React as the Frontend library. Also built out a couple of web3 User Interfaces, and interacted with tools like: hardhat, ethersJS amongts others. I have a background in media and this gives me a rather intresting view when solving problems with code. The ability to mix Technological tools with an artistic backgroud is my super power. </p>
 
 ## Technologies I work with
 
@@ -17,3 +19,4 @@
 <a href="https://www.twitter.com/geniusyinka">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+ -->
